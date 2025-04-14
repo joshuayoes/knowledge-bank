@@ -1,8 +1,7 @@
 # Knowledge Bank
 My public thoughts, opinions and expertise: in writing. 
 
-I was reading through [Kent C. Dodds Epic Programming Principles](https://www.epicweb.dev/principles) and one of the principals that really stood out to me was [Magnify your conversation impact
-](https://www.epicweb.dev/principles/career/professional-growth/magnify-conversation-impact). 
+I was reading through [Kent C. Dodds Epic Programming Principles](https://www.epicweb.dev/principles) and one of the principals that really stood out to me was [Magnify your conversation impact](https://www.epicweb.dev/principles/career/professional-growth/magnify-conversation-impact). 
 
 In order to make it as easy as possible to do this and avoid this situation ([which I am currently doing](https://joshuayoes.com/)): 
 
