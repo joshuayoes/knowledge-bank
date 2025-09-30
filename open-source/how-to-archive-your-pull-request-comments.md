@@ -294,7 +294,7 @@ This is the only command you need to run to get the final result.
 2.  Run the main archive script with your GitHub username:
 
     ```bash
-    ./scripts/archive_user_comments.sh joshuayoes
+    sh ./scripts/archive_user_comments.sh joshuayoes
     ```
 
 ### What Happens Next?
